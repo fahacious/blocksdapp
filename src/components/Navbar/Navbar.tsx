@@ -76,7 +76,7 @@ const Navbar = () => {
                   href="#"
                   className="hover:text-gray-500 font-bold transition-all ease-in-out duration-[0.2s]"
                 >
-                  Discord
+                  NFT
                 </a>
               </li>
             </ul>
