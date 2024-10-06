@@ -24,7 +24,7 @@ const Navbar = () => {
   return (
     <div
       className={`transition-all duration-300 fixed top-0 z-50 w-full ${
-        isScrolled ? "bg-[#202020]" : "bg-transparent"
+        isScrolled ? "bg-[#515151]" : "bg-transparent"
       }`}
     >
       <div className="mycontainer">
