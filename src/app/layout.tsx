@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Mulish({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "DApps | Wallet Troubleshooter",
+  title: "BlocksDapps | Wallet Troubleshooter",
   description: "DApps | Wallet Troubleshooter",
 };
 
