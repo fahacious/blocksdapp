@@ -6,7 +6,7 @@ const inter = Mulish({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "BlocksDapps | Wallet Troubleshooter",
-  description: "DApps | Wallet Troubleshooter",
+  description: "Onchain Rectification | Wallet Troubleshooter",
 };
 
 export default function RootLayout({
